@@ -316,12 +316,14 @@
     },
     {
         "categories": "Beverages",
-        "name": "Sodas | Iced TeasCoffee | Hot Tea | Greek Coffee | Iced FrappeSourotti | Sparkling Water",
+        "name: "Large size only",
+        "ingredients": "Sodas | Iced TeasCoffee | Hot Tea | Greek Coffee | Iced FrappeSourotti | Sparkling Water",
         "price": 5.00
     },
     {
         "categories": "Kids Menu",
-        "name": "Cheeseburger & Fries | Gyro & Fries | Cheese Pita Pizza | Pasta Marinara | Chicken Souvlaki & Fries | Crispy Tilapia & Rice | Chicken Tenders & Fries",
+        "name": "Comes with a choice of fries or rice",
+        "ingredients": "Cheeseburger | Gyro | Cheese Pita Pizza | Pasta Marinara | Chicken Souvlaki | Crispy Tilapia | Chicken Tenders",
         "price": 10.99
     }
 ]

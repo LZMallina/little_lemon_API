@@ -3,36 +3,36 @@
         "categories": "Soup and Salads",
         "name": "Greek Salad",
         "ingredients": "Romaine | tomatoes |cucumbers | green peppers | onions | Pepperoncini | feta cheese radishes | Black olives| Greek dressing",
-        "price":"$12.99"
+        "price": 12.99
     },
       {
         "categories": "Dips",
         "name": "Baba Ghannouj",
         "ingredients":"Smoked eggplant | tahini | lemon juice | garlic",
-        "price":"$8.00"
+        "price": 8.00
     },
        {
         "categories": "Appetizer",
         "name": "Brachrocett",
         "ingredients":"Chopped parsley | tomatoes | onions | bulghar wheat | oliveoil | lemon juice",
-        "price":"$6.99"
+        "price": 6.99
     },
      {
         "categories": "Wraps and Burgers",
         "name": "Gyro",
         "ingredients":"Beef and lamb mix | tomatoes| onions | tzatzikiDinner | Greek salad* | Hand cut fries",
-        "price":"$9.50"
+        "price": 9.50
     },
       {
         "categories": " Entrees",
         "name": "Mediterranean Chicken",
         "ingredients":"Half roasted chicken | Greek potatoes | Fettoush | garlic paste",
-        "price":"$18.00"
+        "price": 18.00
     },
     {
         "categories": "Dessert",
         "name": "Lemon Cake",
         "ingredients":"Lemon white mousse | yellow sponge cake",
-        "price":"$5.99"
+        "price": 5.99
     }
 ]

@@ -1,78 +1,78 @@
 [
-    {
+    {   "id":"R1",
         "categories": "Red",
         "name": "La Marca Presecco",
         "priceB": 40,
         "priceC": 11.99
     },
-     {
+     {  "id":"R2",
         "categories": "Red",
         "name": "Cole Cellars Cabernet Sauvignon",
         "priceB": 25,
         "priceC": 9.99
     },
-     {
+     {  "id":"R3",
         "categories": "Red",
         "name": "Josh Cellars Cabernet Sauvignon",
         "priceB": 32.00,
         "priceC": 10.49
     },
-     {
+     {  "id":"R3",
         "categories": "Red",
         "name": "Apothic Red",
         "priceB": 21,
         "priceC": 7.49
     },
-     {
+     {  "id":"R4",
         "categories": "Red",
         "name": "Valiant Red Blend",
         "priceB": 21,
         "priceC": 6.99
     },
-     {
+     {  "id":"R5",
         "categories": "Red",
         "name": "Que Vida Vinho Tinto",
         "priceB": 21,
         "priceC": 7.00
     },
-    {
-        "categories": "white",
+    {   "id":"W1",
+        "categories": "White",
         "name": "Parini Presecco Brut",
         "priceB": 30,
         "priceC": 10.99
     },
-    {
-        "categories": "white",
+    {   "id":"W2",
+        "categories": "White",
         "name": "Kim Crawford Sauvignon Blanc",
         "priceB": 33,
         "priceC": 11.49
     },
-    {
-        "categories": "white",
+    {   "id":"W3",
+        "categories": "White",
         "name": "Oyster Bay Sauvignon Blanc",
         "priceB": 35,
         "priceC": 9.99
     },
-    {
-        "categories": "white",
+    {   "id":"W4",
+        "categories": "White",
         "name": "White Cloud Marlborough Sauvignon Blanc",
         "priceB": 44,
         "priceC": 12.99
     },
-     {
-        "categories": "white",
+     {  "id":"W5",
+        "categories": "White",
         "name": "Le Altane Pinot Grigio",
         "priceB": 21,
         "priceC": 7.00
     },
-    {
-        "categories": "white",
+    {   "id":"W6",
+        "categories": "White",
         "name": "Famiglie Pinot Grigio",
         "priceB": 32,
         "priceC": 10.99
     },
-     {
-        "categories": "white",
+     {  "id":"W7",
+        "categories": "White",
         "name": "Cole Cellars Chardonnay",
         "priceB": 30,
         "priceC": 9.99
